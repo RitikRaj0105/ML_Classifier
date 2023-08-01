@@ -1,6 +1,6 @@
 # Exploring  ML Classifier
 
-![Classifier Showdown](https://www.google.com/search?q=exploring%20the%20best%20ml%20classifier&tbm=isch&tbs=rimg:CbK_1kouQXrRiYRfvosM7ti-msgITCgIIABAAKAE6BAgBEAFVXSZOP8ACANgCAOACAA&hl=en-GB&sa=X&ved=0CBoQuIIBahcKEwiosJKMr7uAAxUAAAAAHQAAAAAQEw&biw=1571&bih=825#imgrc=-8cK3nKwELiSEM)
+![Classifier Showdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40athishkaushik%2Fan-introduction-to-machine-learning-for-beginners-tutorial-44bb325a8ed8&psig=AOvVaw28VSVO2vSMAd5Zqug7Lq6i&ust=1690976519862000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjUrMvHsLuAAxUfcmwGHVeiAUsQjRx6BAgAEAw)
 
 ## Contents
 1. [Overview](#Overview)
