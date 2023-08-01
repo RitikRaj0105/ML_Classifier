@@ -1,6 +1,6 @@
-# Exploring The Best ML Classifier
+# Exploring  ML Classifier
 
-![Classifier Showdown](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/6001456604774400/image/download/5713346172026880)
+![Classifier Showdown]()
 
 ## Contents
 1. [Overview](#Overview)
