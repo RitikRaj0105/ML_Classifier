@@ -1,6 +1,6 @@
 # Exploring  ML Classifier
 
-![Classifier Showdown](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40athishkaushik%2Fan-introduction-to-machine-learning-for-beginners-tutorial-44bb325a8ed8&psig=AOvVaw28VSVO2vSMAd5Zqug7Lq6i&ust=1690976519862000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjUrMvHsLuAAxUfcmwGHVeiAUsQjRx6BAgAEAw)
+![Classifier Showdown](https://miro.medium.com/v2/resize:fit:1358/0*4_JX8d6N5vFdAFOt.jpg)
 
 ## Contents
 1. [Overview](#Overview)
